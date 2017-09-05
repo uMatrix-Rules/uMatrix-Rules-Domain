@@ -1,0 +1,18 @@
+## uMatrix-Rules
+
+自用 uMatrix 规则
+
+### 注意：
+
+- 仅保证页面大部分功能正常，使用时风险自负
+- 如有页面功能问题，请新建 issue：
+    - 给出页面网址
+    - 指出 uMatrix 版本号 & 浏览器版本号
+    - 附带你的自定规则。如果修改了默认设置，需一并指出
+- 以下原因导致的页面问题不会修复：
+    -  由于内置规则订阅导致的
+    - 可通过调整规则组之外的设置项解决的
+    - 与插件相关的，如 Adobe Flash
+    - [uMatrix README](https://github.com/gorhill/uMatrix/blob/master/README.md) 中明确指出的其它问题
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />

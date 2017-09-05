@@ -1,4 +1,7 @@
 ## uMatrix-Rules
+
+[![](https://img.shields.io/badge/🌎-中文-red.svg)](/zh-cn.md)
+
 My own rules
 
 ### Note:
