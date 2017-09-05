@@ -32,6 +32,9 @@ ua-spoof: zhihu.com false
 * code.jquery.com script allow
 * maxcdn.bootstrapcdn.com script allow
 acfun.cn cdn.aixifan.com script allow
+amazon.cn images-cn.ssl-images-amazon.com script allow
+amazon.cn m.media-amazon.com script allow
+amazon.com images-na.ssl-images-amazon.com script allow
 appinn.com cdn.doublemax.net script allow
 baidu.com 127.0.0.1 * allow
 baidu.com s1.pan.bdstatic.com script allow
