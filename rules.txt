@@ -32,6 +32,14 @@ ua-spoof: zhihu.com false
 * cdnjs.cloudflare.com script allow
 * code.jquery.com script allow
 * maxcdn.bootstrapcdn.com script allow
+163.com api.money.126.net script allow
+163.com data.live.126.net script allow
+163.com img1.126.net frame allow
+163.com img2.126.net script allow
+163.com img2.cache.netease.com script allow
+163.com img5.cache.netease.com script allow
+163.com img6.cache.netease.com script allow
+163.com ursdoccdn.nosdn.127.net script allow
 acfun.cn cdn.aixifan.com script allow
 aliexpress.com i.alicdn.com script allow
 alipay.com a.alipayobjects.com script allow
