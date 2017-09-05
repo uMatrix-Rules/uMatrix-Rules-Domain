@@ -76,6 +76,7 @@ google.com www.gstatic.com script allow
 google.com www.gstatic.com xhr allow
 kanfanba.com cdn.kanfanba.cn script allow
 kanfanba.com dn-staticfile.qbox.me script allow
+linkedin.com static.licdn.com script allow
 live.com auth.gfx.ms script allow
 microsoft.com assets.onestore.ms script allow
 microsoft.com auth.gfx.ms script allow
