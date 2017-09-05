@@ -1,3 +1,6 @@
+# (c) Rictusempra @ https://github.com/Rictusempra/uMatrix-Rules
+# LICENSED UNDER CC-BY-NC-SA 4.0
+
 https-strict: * true
 https-strict: behind-the-scene false
 matrix-off: about-scheme true
