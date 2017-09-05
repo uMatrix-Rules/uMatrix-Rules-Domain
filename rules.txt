@@ -74,6 +74,15 @@ google.com ssl.gstatic.com script allow
 google.com ssl.gstatic.com xhr allow
 google.com www.gstatic.com script allow
 google.com www.gstatic.com xhr allow
+instagram.com assets.tumblr.com frame allow
+instagram.com assets.tumblr.com script allow
+instagram.com cdn.rawgit.com script allow
+instagram.com instagram.tumblr.com media allow
+instagram.com instagramstatic-a.akamaihd.net script allow
+instagram.com static.xx.fbcdn.net script allow
+instagram.com www.tumblr.com frame allow
+instagram.com www.tumblr.com other allow
+instagram.com www.tumblr.com script allow
 kanfanba.com cdn.kanfanba.cn script allow
 kanfanba.com dn-staticfile.qbox.me script allow
 linkedin.com static.licdn.com script allow
