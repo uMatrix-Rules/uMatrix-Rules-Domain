@@ -98,6 +98,8 @@ microsoft.com statics-uhf-neu.akamaized.net script allow
 mozilla.org addons.cdn.mozilla.net script allow
 mozilla.org cdn-production.discourse.mozilla-community.org script allow
 mozilla.org developer.cdn.mozilla.net script allow
+netflix.com codex.nflxext.com script allow
+netflix.com nflxext.com media allow
 pixiv.net d.pixiv.org frame allow
 qq.com captcha.gtimg.com frame allow
 qq.com captcha.gtimg.com script allow
