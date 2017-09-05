@@ -103,3 +103,6 @@ twitter.com video.twimg.com xhr allow
 twitter.com www.pscp.tv frame allow
 twitter.com www.pscp.tv script allow
 yandex.com yastatic.net script allow
+youtube.com r4---sn-3pm7dn7s.googlevideo.com xhr allow
+youtube.com r6---sn-oguesnzs.googlevideo.com xhr allow
+youtube.com redirector.googlevideo.com xhr allow
