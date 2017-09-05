@@ -92,6 +92,8 @@ qq.com captcha.gtimg.com frame allow
 qq.com captcha.gtimg.com script allow
 qq.com qq.com cookie allow
 qq.com rescdn.qqmail.com script allow
+sohu.com m1.auto.itc.cn script allow
+sohu.com statics.itc.cn script allow
 sourceforge.net a.fsdn.com script allow
 taobao.com ecpm.tanx.com script allow
 taobao.com g.alicdn.com frame allow
