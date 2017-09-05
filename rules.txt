@@ -1,12 +1,9 @@
 https-strict: * true
 https-strict: behind-the-scene false
-https-strict: tsdm.me false
-matrix-off: 797dc218-e191-4ba8-bec6-abc07e68401d.moz-extension-scheme true
 matrix-off: about-scheme true
 matrix-off: behind-the-scene true
 matrix-off: chrome-extension-scheme true
 matrix-off: chrome-scheme true
-matrix-off: f531103c-928b-4542-a8e2-cd151bbba97e.moz-extension-scheme true
 matrix-off: localhost true
 matrix-off: opera-scheme true
 referrer-spoof: * true
@@ -21,7 +18,6 @@ ua-spoof: mozilla.org false
 ua-spoof: yandex.com false
 ua-spoof: zhihu.com false
 * * * block
-* * cookie block
 * * css allow
 * * frame block
 * * image allow
@@ -35,12 +31,8 @@ ua-spoof: zhihu.com false
 * cdnjs.cloudflare.com script allow
 * code.jquery.com script allow
 * maxcdn.bootstrapcdn.com script allow
-acg12.com acg12.com cookie allow
-alipay.com alipay.com cookie allow
 appinn.com cdn.doublemax.net script allow
-appinn.com faxian.appinn.com cookie allow
 baidu.com 127.0.0.1 * allow
-baidu.com baidu.com cookie allow
 baidu.com s1.pan.bdstatic.com script allow
 bilibili.com acgvideo.com media allow
 bilibili.com acgvideo.com xhr allow
@@ -50,61 +42,48 @@ bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
 bilibili.com static.hdslb.com script allow
 deviantart.com st.deviantart.net script allow
-dropbox.com dropbox.com cookie allow
 dropbox.com dropboxstatic.com script allow
 dropbox.com dropboxstatic.com xhr allow
 emlvirus.github.io ajax.googleapis.com script allow
-firefox.com firefox.com cookie allow
 firefox.com mozilla.net script allow
 gamer.com.tw i2.bahamut.com.tw script allow
-gitbook.com gitbook.com cookie allow
 github.com ajax.googleapis.com script allow
 github.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com xhr allow
 github.com github-production-user-asset-6210df.s3.amazonaws.com xhr allow
 github.com github-windows.s3.amazonaws.com script allow
-github.com github.com cookie allow
 github.com pages-themes.github.io frame allow
 github.com pages-themes.github.io script allow
 github.com raw.githubusercontent.com xhr allow
 github.com render.githubusercontent.com frame allow
 github.com render.githubusercontent.com script allow
 github.com render.githubusercontent.com xhr allow
- 
+
 kanfanba.com cdn.kanfanba.cn script allow
 kanfanba.com dn-staticfile.qbox.me script allow
-kanfanba.com kanfanba.com cookie allow
 live.com auth.gfx.ms script allow
-live.com live.com cookie allow
 microsoft.com assets.onestore.ms script allow
 microsoft.com auth.gfx.ms script allow
-microsoft.com live.com cookie allow
 microsoft.com login.live.com frame allow
 microsoft.com login.live.com script allow
 microsoft.com mem.gfx.ms script allow
 microsoft.com mem.gfx.ms xhr allow
-microsoft.com microsoft.com cookie allow
 microsoft.com statics-onestore-eas-ms-com.akamaized.net script allow
 microsoft.com statics-uhf-neu.akamaized.net script allow
 mozilla.org addons.cdn.mozilla.net script allow
 mozilla.org cdn-production.discourse.mozilla-community.org script allow
 mozilla.org developer.cdn.mozilla.net script allow
 pixiv.net d.pixiv.org frame allow
-pixiv.net pixiv.net cookie allow
-protonmail.com protonmail.com cookie allow
 sourceforge.net a.fsdn.com script allow
 time.com d2nx6ydw3e5y5d.cloudfront.net script allow
 time.com s0.wp.com script allow
 time.com s1.wp.com script allow
 time.com s2.wp.com script allow
 toshinou.com cdn.jsdelivr.net script allow
-toshinou.com toshinou.com cookie allow
 tsdm.me follow.v.t.qq.com frame allow
 tsdm.me follow.v.t.qq.com script allow
 tsdm.me mat1.gtimg.com script allow
 tsdm.me push.zhanzhang.baidu.com script allow
-tsdm.me www.tsdm.me cookie allow
 tsdm.me www.tsdmw.net script allow
 twitter.com abs.twimg.com script allow
 twitter.com video.twimg.com xhr allow
-vultr.com vultr.com cookie allow
 yandex.com yastatic.net script allow
