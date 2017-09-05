@@ -95,5 +95,11 @@ tsdm.me mat1.gtimg.com script allow
 tsdm.me push.zhanzhang.baidu.com script allow
 tsdm.me www.tsdmw.net script allow
 twitter.com abs.twimg.com script allow
+twitter.com assets.pscp.tv script allow
+twitter.com ton.twimg.com script allow
+twitter.com twitter.com cookie allow
+twitter.com video.twimg.com media allow
 twitter.com video.twimg.com xhr allow
+twitter.com www.pscp.tv frame allow
+twitter.com www.pscp.tv script allow
 yandex.com yastatic.net script allow
