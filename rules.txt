@@ -182,6 +182,10 @@ weibo.com jss.t.sinajs.cn script allow
 weibo.com login.sina.com.cn script allow
 weibo.com weibo.com cookie allow
 yandex.com yastatic.net script allow
+yelp.com ajax.googleapis.com script allow
+yelp.com s3-media1.fl.yelpcdn.com script allow
+yelp.com s3-media2.fl.yelpcdn.com script allow
+yelp.com s3-media4.fl.yelpcdn.com script allow
 youku.com 127.0.0.1 media allow
 youku.com 127.0.0.1 script allow
 youku.com 127.0.0.1 xhr allow
