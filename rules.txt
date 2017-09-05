@@ -129,6 +129,11 @@ sharepoint.com word-view.officeapps.live.com frame allow
 sohu.com m1.auto.itc.cn script allow
 sohu.com statics.itc.cn script allow
 sourceforge.net a.fsdn.com script allow
+stackexchange.com cdn.sstatic.net script allow
+stackexchange.com googlevideo.com xhr allow
+stackexchange.com www.youtube.com frame allow
+stackexchange.com www.youtube.com script allow
+stackexchange.com www.youtube.com xhr allow
 taobao.com ecpm.tanx.com script allow
 taobao.com g.alicdn.com frame allow
 taobao.com g.alicdn.com script allow
