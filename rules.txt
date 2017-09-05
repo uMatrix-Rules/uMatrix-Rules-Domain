@@ -71,6 +71,10 @@ bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
 bilibili.com static.hdslb.com script allow
 deviantart.com st.deviantart.net script allow
+douyu.com apm.douyucdn.cn xhr allow
+douyu.com dotcounter.douyucdn.cn xhr allow
+douyu.com shark.douyucdn.cn script allow
+douyu.com webconf.douyucdn.cn script allow
 dropbox.com dropboxstatic.com script allow
 dropbox.com dropboxstatic.com xhr allow
 firefox.com mozilla.net script allow
