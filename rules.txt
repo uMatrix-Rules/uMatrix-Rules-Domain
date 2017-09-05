@@ -74,6 +74,16 @@ mozilla.org cdn-production.discourse.mozilla-community.org script allow
 mozilla.org developer.cdn.mozilla.net script allow
 pixiv.net d.pixiv.org frame allow
 sourceforge.net a.fsdn.com script allow
+taobao.com ecpm.tanx.com script allow
+taobao.com g.alicdn.com frame allow
+taobao.com g.alicdn.com script allow
+taobao.com img.alicdn.com xhr allow
+taobao.com jipiao.alitrip.com script allow
+taobao.com localhost.wwbizsrv.alibaba.com script allow
+taobao.com pages.tmall.com xhr allow
+taobao.com pass.tmall.com script allow
+taobao.com tbip.alicdn.com script allow
+taobao.com tce.alicdn.com script allow
 time.com d2nx6ydw3e5y5d.cloudfront.net script allow
 time.com s0.wp.com script allow
 time.com s1.wp.com script allow
