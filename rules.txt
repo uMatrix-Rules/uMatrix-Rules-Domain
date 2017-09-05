@@ -174,6 +174,9 @@ twitter.com video.twimg.com media allow
 twitter.com video.twimg.com xhr allow
 twitter.com www.pscp.tv frame allow
 twitter.com www.pscp.tv script allow
+walmart.com a14.wal.co script allow
+walmart.com b.wal.co script allow
+walmart.com i5.walmartimages.com script allow
 weibo.com h5.sinaimg.cn script allow
 weibo.com js.t.sinajs.cn script allow
 weibo.com js1.t.sinajs.cn script allow
