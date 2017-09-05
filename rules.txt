@@ -116,6 +116,13 @@ twitter.com video.twimg.com media allow
 twitter.com video.twimg.com xhr allow
 twitter.com www.pscp.tv frame allow
 twitter.com www.pscp.tv script allow
+weibo.com h5.sinaimg.cn script allow
+weibo.com js.t.sinajs.cn script allow
+weibo.com js1.t.sinajs.cn script allow
+weibo.com js2.t.sinajs.cn script allow
+weibo.com jss.t.sinajs.cn script allow
+weibo.com login.sina.com.cn script allow
+weibo.com weibo.com cookie allow
 yandex.com yastatic.net script allow
 youku.com 127.0.0.1 media allow
 youku.com 127.0.0.1 script allow
