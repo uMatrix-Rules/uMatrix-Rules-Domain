@@ -134,6 +134,8 @@ office.com office.com cookie allow
 office.com r1.res.office365.com script allow
 office365.com browser.pipe.aria.microsoft.com xhr allow
 office365.com office365.com cookie allow
+opera.com addons-static.operacdn.com script allow
+opera.com www-static.operacdn.com script allow
 pixiv.net d.pixiv.org frame allow
 qq.com captcha.gtimg.com frame allow
 qq.com captcha.gtimg.com script allow
