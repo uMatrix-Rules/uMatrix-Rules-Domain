@@ -33,6 +33,7 @@ ua-spoof: zhihu.com false
 * code.jquery.com script allow
 * maxcdn.bootstrapcdn.com script allow
 acfun.cn cdn.aixifan.com script allow
+aliexpress.com i.alicdn.com script allow
 alipay.com a.alipayobjects.com script allow
 alipay.com as.alipayobjects.com script allow
 alipay.com assets.alicdn.com script allow
