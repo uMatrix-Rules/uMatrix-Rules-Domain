@@ -113,6 +113,11 @@ tudou.com static.soku.com script allow
 tudou.com static.youku.com script allow
 tudou.com tip.soku.com script allow
 tudou.com tip.tudou.soku.com script allow
+twitch.tv usher.ttvnw.net xhr allow
+twitch.tv video-edge-328948.sjc01.hls.ttvnw.net xhr allow
+twitch.tv video-edge-3e5285.sjc01.hls.ttvnw.net xhr allow
+twitch.tv video-edge-c55b10.sin01.hls.ttvnw.net xhr allow
+twitch.tv web-cdn.ttvnw.net script allow
 twitter.com abs.twimg.com script allow
 twitter.com assets.pscp.tv script allow
 twitter.com ton.twimg.com script allow
