@@ -148,6 +148,9 @@ time.com d2nx6ydw3e5y5d.cloudfront.net script allow
 time.com s0.wp.com script allow
 time.com s1.wp.com script allow
 time.com s2.wp.com script allow
+tmall.com g.alicdn.com frame allow
+tmall.com g.alicdn.com script allow
+tmall.com suggest.taobao.com script allow
 toshinou.com cdn.jsdelivr.net script allow
 tsdm.me follow.v.t.qq.com frame allow
 tsdm.me follow.v.t.qq.com script allow
