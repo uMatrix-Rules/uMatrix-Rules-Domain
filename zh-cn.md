@@ -12,7 +12,10 @@
 - 以下原因导致的页面问题不会修复：
     -  由于内置规则订阅导致的
     - 可通过调整规则组之外的设置项解决的
-    - 当网站使用不被信任的CA签发的证书时
+    - 当网站符合以下任意情况之一时：
+        -  使用不被信任的CA签发的证书
+        - **仅**包含色情内容
+        - 被报告为危险站点
     - 与插件相关的，如 Adobe Flash
     - [uMatrix README](https://github.com/gorhill/uMatrix/blob/master/README.md) 中明确指出的其它问题
 

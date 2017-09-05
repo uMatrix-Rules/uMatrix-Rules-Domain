@@ -14,7 +14,10 @@ My own rules
 - Here are service inavailablity things that won't be fixed:
     -  from contents blocked by any built-in subscriptions
     - caused by certain preferences outside of rule sets
-    - if a site is using cert from any untrusted CA
+    - if a site:
+        -  is using cert from any untrusted CA
+        - containing **only** pornographic content
+        - reported as a deceptive site
     - relevant with plugin, such as Adobe Flash
     - other issues you should have learnt from [uMatrix README](https://github.com/gorhill/uMatrix/blob/master/README.md)
 
