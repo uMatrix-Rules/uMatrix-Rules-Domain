@@ -7,7 +7,7 @@ My own rules
 ### Note:
 
 - I can only ensure most site functions are workable. Use at your own risk.
-- If you are expecting my investigation on any specific site, pls open a new issue:
+- If you are expecting my investigation on any specific site, pls open a [new issue](https://github.com/Rictusempra/uMatrix-Rules/issues/new):
     - give a specific URL
     - point out your uMatrix version & broswer version
     - attach your own rules and, if differ from default, your preferences

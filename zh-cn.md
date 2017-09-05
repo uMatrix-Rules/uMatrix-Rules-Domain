@@ -5,7 +5,7 @@
 ### 注意：
 
 - 仅保证页面大部分功能正常，使用时风险自负
-- 如有页面功能问题，请新建 issue：
+- 如有页面功能问题，请[新建 issue](https://github.com/Rictusempra/uMatrix-Rules/issues/new)：
     - 给出页面网址
     - 指出 uMatrix 版本号 & 浏览器版本号
     - 附带你的自定规则。如果修改了默认设置，需一并指出
