@@ -19,7 +19,7 @@ My own rules
         - containing **only** pornographic content
         - reported as a deceptive site
     - relevant with plugin, such as Adobe Flash
-    - other issues you should have learnt from [uMatrix README](https://github.com/gorhill/uMatrix/blob/master/README.md)
+    - other issues you should have learnt from uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) or [wiki](https://github.com/gorhill/uMatrix/wiki)
 
 ### TO-DO
 

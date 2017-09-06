@@ -17,7 +17,7 @@
         - **仅**包含色情内容
         - 被报告为危险站点
     - 与插件相关的，如 Adobe Flash
-    - [uMatrix README](https://github.com/gorhill/uMatrix/blob/master/README.md) 中明确指出的其它问题
+    - uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) 或 [wiki](https://github.com/gorhill/uMatrix/wiki) 中明确指出的其它问题
 
 ### 另见[本项目wiki](https://github.com/Rictusempra/uMatrix-Rules/wiki/Video-Iframe-Examples)
 
