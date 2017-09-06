@@ -19,7 +19,7 @@
     - 与插件相关的，如 Adobe Flash
     - uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) 或 [wiki](https://github.com/gorhill/uMatrix/wiki) 中明确指出的其它问题
 
-### 另见[本项目wiki](https://github.com/Rictusempra/uMatrix-Rules/wiki/Video-Iframe-Examples)
+### 另见[本项目wiki](https://github.com/Rictusempra/uMatrix-Rules/wiki/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 Except where otherwise noted, all content in this repository is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
