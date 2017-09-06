@@ -13,7 +13,7 @@ My own rules
     - attach your own rules and, if differ from default, your preferences
 - Here are service inavailablity things that won't be fixed:
     -  from contents blocked by any built-in subscriptions
-    - caused by certain preferences outside of rule sets
+    - caused by certain preferences outside of rule sets or of uMatrix itself
     - if a site:
         -  is using cert from any untrusted CA
         - containing **only** pornographic content
