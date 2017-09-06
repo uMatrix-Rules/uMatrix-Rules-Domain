@@ -230,6 +230,9 @@ weibo.com jss.t.sinajs.cn script allow
 weibo.com login.sina.com.cn script allow
 weibo.com weibo.com cookie allow
 yandex.com yastatic.net script allow
+yahoo.com s.yimg.com frame allow
+yahoo.com s.yimg.com script allow
+yandex.com yastatic.net script allow
 yelp.com ajax.googleapis.com script allow
 yelp.com s3-media1.fl.yelpcdn.com script allow
 yelp.com s3-media2.fl.yelpcdn.com script allow
