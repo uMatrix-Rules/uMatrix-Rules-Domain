@@ -76,6 +76,14 @@ baidu.com webmap0.map.bdstatic.com script allow
 baidu.com webmap1.map.bdstatic.com script allow
 baidu.com webmap2.map.bdstatic.com script allow
 baidu.com wkstatic.bdimg.com script allow
+bbc.com mybbc.files.bbci.co.uk script allow
+bbc.com nav.files.bbci.co.uk script allow
+bbc.com search-suggest.api.bbci.co.uk xhr allow
+bbc.com search.files.bbci.co.uk script allow
+bbc.com ssl.bbc.co.uk xhr allow
+bbc.com static.bbc.co.uk script allow
+bbc.com static.bbci.co.uk script allow
+bbc.com www.bbc.co.uk script allow
 bilibili.com acgvideo.com media allow
 bilibili.com acgvideo.com xhr allow
 bilibili.com s1.hdslb.com script allow
