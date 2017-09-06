@@ -85,6 +85,7 @@ bilibili.com s3.hdslb.com script allow
 bilibili.com static.hdslb.com script allow
 booking.com q-ak.bstatic.com script allow
 booking.com r-ak.bstatic.com script allow
+dailymotion.com static1.dmcdn.net script allow
 deviantart.com st.deviantart.net script allow
 douyu.com apm.douyucdn.cn xhr allow
 douyu.com dotcounter.douyucdn.cn xhr allow
