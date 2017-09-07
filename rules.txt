@@ -245,6 +245,13 @@ weibo.com login.sina.com.cn script allow
 weibo.com weibo.com cookie allow
 wikipedia.org login.wikimedia.org script allow
 wikipedia.org meta.wikimedia.org script allow
+wikiwand.com ajax.googleapis.com script allow
+wikiwand.com d3isfnyiuldmfu.cloudfront.net media allow
+wikiwand.com d3isfnyiuldmfu.cloudfront.net script allow
+wikiwand.com db0nus869y26v.cloudfront.net xhr allow
+wikiwand.com en.wikipedia.org script allow
+wikiwand.com s3.amazonaws.com media allow
+wikiwand.com s3.amazonaws.com xhr allow
 yahoo.com s.yimg.com frame allow
 yahoo.com s.yimg.com script allow
 yandex.com yastatic.net script allow
