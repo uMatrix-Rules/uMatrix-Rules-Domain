@@ -132,6 +132,17 @@ google.com www.gstatic.com xhr allow
 hbr.org cdns.gigya.com script allow
 hbr.org cdns.us1.gigya.com frame allow
 hbr.org cdns.us1.gigya.com script allow
+ifeng.com c0.ifengimg.com script allow
+ifeng.com c1.ifengimg.com script allow
+ifeng.com h2.ifengimg.com script allow
+ifeng.com js.ifengimg.com script allow
+ifeng.com m0.ifengimg.com script allow
+ifeng.com m1.ifengimg.com script allow
+ifeng.com m3.ifengimg.com script allow
+ifeng.com p0.ifengimg.com media allow
+ifeng.com p0.ifengimg.com script allow
+ifeng.com y0.ifengimg.com script allow
+ifeng.com y1.ifengimg.com script allow
 instagram.com assets.tumblr.com frame allow
 instagram.com assets.tumblr.com script allow
 instagram.com cdn.rawgit.com script allow
