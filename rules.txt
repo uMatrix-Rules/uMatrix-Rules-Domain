@@ -68,6 +68,7 @@ alipay.com t.alipayobjects.com media allow
 alipay.com t.alipayobjects.com script allow
 amazon.cn images-cn.ssl-images-amazon.com script allow
 amazon.cn m.media-amazon.com script allow
+amazon.com a0.awsstatic.com script allow
 amazon.com images-na.ssl-images-amazon.com script allow
 appinn.com cdn.doublemax.net script allow
 baidu.com fex.bdstatic.com script allow
@@ -146,6 +147,7 @@ linkedin.com static.licdn.com script allow
 live.com auth.gfx.ms script allow
 microsoft.com assets.onestore.ms script allow
 microsoft.com auth.gfx.ms script allow
+microsoft.com i2-msdn.sec.s-msft.com script allow
 microsoft.com login.live.com frame allow
 microsoft.com login.live.com script allow
 microsoft.com mem.gfx.ms script allow
