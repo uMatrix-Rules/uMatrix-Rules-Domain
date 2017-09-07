@@ -125,6 +125,7 @@ github.com render.githubusercontent.com frame allow
 github.com render.githubusercontent.com script allow
 github.com render.githubusercontent.com xhr allow
 google.com ajax.googleapis.com script allow
+google.com ssl.gstatic.com media allow
 google.com ssl.gstatic.com script allow
 google.com ssl.gstatic.com xhr allow
 google.com www.gstatic.com script allow
