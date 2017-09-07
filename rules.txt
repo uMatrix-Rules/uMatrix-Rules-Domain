@@ -97,6 +97,10 @@ bilibili.com s1.hdslb.com xhr allow
 bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
 bilibili.com static.hdslb.com script allow
+bitbucket.org ace-cdn.atlassian.com script allow
+bitbucket.org bitbucket-marketing-cdn.atlassian.com script allow
+bitbucket.org bitbucket.org cookie allow
+bitbucket.org d301sr5gafysq2.cloudfront.net script allow
 booking.com q-ak.bstatic.com script allow
 booking.com r-ak.bstatic.com script allow
 dailymotion.com static1.dmcdn.net script allow
