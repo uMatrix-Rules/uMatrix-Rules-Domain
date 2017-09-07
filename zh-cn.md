@@ -16,6 +16,7 @@
         -  使用不被信任的CA签发的证书
         - **仅**包含色情内容
         - 被报告为危险站点
+        - 不位于公共服务的个人博客站点
     - 与插件相关的，如 Adobe Flash
     - uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) 或 [wiki](https://github.com/gorhill/uMatrix/wiki) 中明确指出的其它问题
 

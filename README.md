@@ -18,6 +18,7 @@ My own rules
         -  is using cert from any untrusted CA
         - containing **only** pornographic content
         - reported as a deceptive site
+        - is a private blog site that is not hosted on public serivce
     - relevant with plugin, such as Adobe Flash
     - other issues you should have learnt from uMatrix [README](https://github.com/gorhill/uMatrix/blob/master/README.md) or [wiki](https://github.com/gorhill/uMatrix/wiki)
 
