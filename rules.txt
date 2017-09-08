@@ -55,6 +55,7 @@ ua-spoof: zhihu.com false
 163.com mimg.127.net script allow
 163.com s1.music.126.net media allow
 163.com s3.music.126.net script allow
+163.com static.ws.126.net script allow
 163.com ursdoccdn.nosdn.127.net script allow
 163.com wr.da.netease.com script allow
 acfun.cn cdn.aixifan.com script allow
