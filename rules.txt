@@ -2,9 +2,7 @@
 # LICENSED UNDER CC-BY-NC-SA 4.0
 
 https-strict: * true
-https-strict: 163.com false
 https-strict: behind-the-scene false
-https-strict: tsdm.me false
 matrix-off: 797dc218-e191-4ba8-bec6-abc07e68401d.moz-extension-scheme true
 matrix-off: about-scheme true
 matrix-off: behind-the-scene true
@@ -19,14 +17,12 @@ referrer-spoof: behind-the-scene false
 referrer-spoof: bilibili.com false
 referrer-spoof: firefox.com false
 ua-spoof: * true
-ua-spoof: 163.com false
 ua-spoof: behind-the-scene false
 ua-spoof: firefox.com false
 ua-spoof: github.com false
 ua-spoof: iobit.com false
 ua-spoof: mozilla.org false
 ua-spoof: yandex.com false
-ua-spoof: zhihu.com false
 * * * block
 * * css allow
 * * frame block
