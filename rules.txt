@@ -30,6 +30,7 @@ ua-spoof: yandex.com false
 * 1st-party * allow
 * 1st-party frame allow
 * ajax.aspnetcdn.com script allow
+* ajax.googleapis.com script allow
 * apps.bdimg.com script allow
 * cdn.bootcss.com script allow
 * cdn.jsdelivr.net script allow
