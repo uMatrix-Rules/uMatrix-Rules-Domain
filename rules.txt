@@ -102,6 +102,7 @@ bitbucket.org bitbucket.org cookie allow
 bitbucket.org d301sr5gafysq2.cloudfront.net script allow
 booking.com q-ak.bstatic.com script allow
 booking.com r-ak.bstatic.com script allow
+csdn.net csdnimg.cn script allow
 dailymotion.com static1.dmcdn.net script allow
 deviantart.com st.deviantart.net script allow
 douyu.com apm.douyucdn.cn xhr allow
