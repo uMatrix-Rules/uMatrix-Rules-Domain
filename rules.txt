@@ -15,11 +15,11 @@ referrer-spoof: * true
 referrer-spoof: 163.com false
 referrer-spoof: behind-the-scene false
 referrer-spoof: bilibili.com false
+referrer-spoof: dropbox.com false
 referrer-spoof: firefox.com false
 ua-spoof: * true
 ua-spoof: behind-the-scene false
 ua-spoof: firefox.com false
-ua-spoof: github.com false
 ua-spoof: iobit.com false
 ua-spoof: mozilla.org false
 ua-spoof: yandex.com false
@@ -108,8 +108,10 @@ douyu.com apm.douyucdn.cn xhr allow
 douyu.com dotcounter.douyucdn.cn xhr allow
 douyu.com shark.douyucdn.cn script allow
 douyu.com webconf.douyucdn.cn script allow
-dropbox.com dropboxstatic.com script allow
-dropbox.com dropboxstatic.com xhr allow
+dropbox.com 127.0.0.1 xhr allow
+dropbox.com cfl.dropboxstatic.com script allow
+dropbox.com cfl.dropboxstatic.com xhr allow
+dropbox.com www.dropboxstatic.com script allow
 firefox.com mozilla.net script allow
 gamer.com.tw i2.bahamut.com.tw script allow
 github.com ajax.googleapis.com script allow
