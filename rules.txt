@@ -128,6 +128,10 @@ google.com ajax.googleapis.com script allow
 google.com ssl.gstatic.com media allow
 google.com ssl.gstatic.com script allow
 google.com ssl.gstatic.com xhr allow
+google.com translate.googleapis.com script allow
+google.com translate.googleapis.com xhr allow
+google.com translate.googleusercontent.com frame allow
+google.com translate.googleusercontent.com script allow
 google.com www.gstatic.com script allow
 google.com www.gstatic.com xhr allow
 hbr.org cdns.gigya.com script allow
