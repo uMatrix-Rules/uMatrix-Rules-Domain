@@ -24,6 +24,11 @@ My own rules
 
 All Alexa top 100
 
+### Usage
+
+1. git clone or download master branch as a `.zip` file.
+2. copy & paste or import in uMatrix dashboard.
+
 ### MORE AT [WIKI](https://github.com/Rictusempra/uMatrix-Rules/wiki/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
