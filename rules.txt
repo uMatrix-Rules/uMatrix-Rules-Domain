@@ -180,6 +180,13 @@ mozilla.org cdn-production.discourse.mozilla-community.org script allow
 mozilla.org developer.cdn.mozilla.net script allow
 netflix.com codex.nflxext.com script allow
 netflix.com nflxext.com media allow
+nytimes.com a1.nyt.com script allow
+nytimes.com int.nyt.com script allow
+nytimes.com int.nyt.com xhr allow
+nytimes.com s1.nyt.com xhr allow
+nytimes.com static01.nyt.com script allow
+nytimes.com vp.nyt.com media allow
+nytimes.com web-player.art19.com script allow
 office.com browser.pipe.aria.microsoft.com xhr allow
 office.com easofficehome.msocdn.com script allow
 office.com graph.microsoft.com xhr allow
