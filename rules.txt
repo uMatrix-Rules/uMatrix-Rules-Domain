@@ -281,6 +281,9 @@ vcb-s.com cache.cswsadlab.com script allow
 walmart.com a14.wal.co script allow
 walmart.com b.wal.co script allow
 walmart.com i5.walmartimages.com script allow
+washingtonpost.com cdn.springserve.com media allow
+washingtonpost.com d21rhj7n383afu.cloudfront.net script allow
+washingtonpost.com loxodo-ct.ext.nile.works xhr allow
 weibo.com h5.sinaimg.cn script allow
 weibo.com js.t.sinajs.cn script allow
 weibo.com js1.t.sinajs.cn script allow
