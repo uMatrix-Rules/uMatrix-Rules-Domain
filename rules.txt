@@ -113,6 +113,7 @@ dropbox.com cfl.dropboxstatic.com script allow
 dropbox.com cfl.dropboxstatic.com xhr allow
 dropbox.com www.dropboxstatic.com script allow
 firefox.com mozilla.net script allow
+foxnews.com global.fncstatic.com script allow
 gamer.com.tw i2.bahamut.com.tw script allow
 github.com ajax.googleapis.com script allow
 github.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com xhr allow
