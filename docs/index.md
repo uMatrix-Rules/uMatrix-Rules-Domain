@@ -30,7 +30,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
 
 ---
 
-### Ovagarava!
+## Ovagarava!
 
 - [Blacklist Mode](Blacklist-Mode.md)
 - [Contributing](Contributing.md)
