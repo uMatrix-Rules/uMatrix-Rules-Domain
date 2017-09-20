@@ -137,6 +137,8 @@ google.com www.gstatic.com xhr allow
 hbr.org cdns.gigya.com script allow
 hbr.org cdns.us1.gigya.com frame allow
 hbr.org cdns.us1.gigya.com script allow
+huffingtonpost.com s.m.huffpost.com script allow
+huffingtonpost.com s.m.huffpost.com xhr allow
 ifeng.com c0.ifengimg.com script allow
 ifeng.com c1.ifengimg.com script allow
 ifeng.com h2.ifengimg.com script allow
