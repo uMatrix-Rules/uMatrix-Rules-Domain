@@ -288,8 +288,10 @@ wikiwand.com db0nus869y26v.cloudfront.net xhr allow
 wikiwand.com en.wikipedia.org script allow
 wikiwand.com s3.amazonaws.com media allow
 wikiwand.com s3.amazonaws.com xhr allow
+yahoo.com jparack03.vpg.cdn.yimg.com xhr allow
 yahoo.com s.yimg.com frame allow
 yahoo.com s.yimg.com script allow
+yahoo.com s.yimg.com xhr allow
 yandex.com yastatic.net script allow
 yelp.com ajax.googleapis.com script allow
 yelp.com s3-media1.fl.yelpcdn.com script allow
