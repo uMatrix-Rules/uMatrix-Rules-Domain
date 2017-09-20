@@ -244,6 +244,8 @@ taobao.com pages.tmall.com xhr allow
 taobao.com pass.tmall.com script allow
 taobao.com tbip.alicdn.com script allow
 taobao.com tce.alicdn.com script allow
+theguardian.com assets.guim.co.uk script allow
+theguardian.com assets.guim.co.uk xhr allow
 time.com d2nx6ydw3e5y5d.cloudfront.net script allow
 time.com s0.wp.com script allow
 time.com s1.wp.com script allow
