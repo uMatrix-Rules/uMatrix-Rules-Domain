@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://rictusempra.github.io/uMatrix-Rules/#Ovagarava)
+## [Vrooboo! Wabbo!!](https://rictusempra.github.io/uMatrix-Rules/#ovagarava)
 
 In some site, you may encounter such a warning if you enable User-Agent spoofing:
 

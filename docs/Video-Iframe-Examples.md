@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://rictusempra.github.io/uMatrix-Rules/#Ovagarava)
+## [Vrooboo! Wabbo!!](https://rictusempra.github.io/uMatrix-Rules/#ovagarava)
 
 As They are too many examples on this, so I will only give HTML5 examples here:
 

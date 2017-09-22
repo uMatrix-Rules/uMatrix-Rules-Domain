@@ -1,4 +1,4 @@
-## [Vrooboo! Wabbo!!](https://rictusempra.github.io/uMatrix-Rules/#Ovagarava)
+## [Vrooboo! Wabbo!!](https://rictusempra.github.io/uMatrix-Rules/#ovagarava)
 
 To contribute this repository, you may:
 
