@@ -104,6 +104,7 @@ booking.com r-ak.bstatic.com script allow
 csdn.net csdnimg.cn script allow
 dailymotion.com static1.dmcdn.net script allow
 deviantart.com st.deviantart.net script allow
+discordapp.com discord.gg xhr allow
 douyu.com apm.douyucdn.cn xhr allow
 douyu.com dotcounter.douyucdn.cn xhr allow
 douyu.com shark.douyucdn.cn script allow
