@@ -338,6 +338,4 @@ youku.com g.alicdn.com script allow
 youku.com js.ykimg.com script allow
 youku.com r1.ykimg.com script allow
 youku.com ykimg.com media allow
-youtube.com r4---sn-3pm7dn7s.googlevideo.com xhr allow
-youtube.com r6---sn-oguesnzs.googlevideo.com xhr allow
-youtube.com redirector.googlevideo.com xhr allow
+youtube.com googlevideo.com xhr allow
