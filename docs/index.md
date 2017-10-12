@@ -16,6 +16,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - [uBlock Origin](https://github.com/gorhill/uBlock)
 1. How can I donate?
     No any will to accept yet.
+
 ## Gnar gada! - USAGE
 
 1. Save file from [this link](https://github.com/Rictusempra/uMatrix-Rules/raw/master/rules.txt) into any local directory or directly open it in your browser & copy all contents
