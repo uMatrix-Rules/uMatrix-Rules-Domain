@@ -14,7 +14,7 @@ Here is a summation of all relevant knowledge you should have learned before usi
     - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
     - [Neat URL](http://hugsmile.eu/)
     - [uBlock Origin](https://github.com/gorhill/uBlock)
-1. How can I donate?
+1. How can I donate?  
     No any will to accept yet.
 
 ## Gnar gada! - USAGE
