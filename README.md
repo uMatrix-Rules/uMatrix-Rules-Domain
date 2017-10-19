@@ -1,6 +1,6 @@
 ## uMatrix Rules
 
-A collective ruleset that help you with hard startup on uMatrix.
+A collective ruleset that helps you with hard startup on uMatrix.
 
 ### TO-DO
 
