@@ -217,9 +217,10 @@ pixiv.net d.pixiv.org frame allow
 qq.com captcha.gtimg.com frame allow
 qq.com captcha.gtimg.com script allow
 qq.com rescdn.qqmail.com script allow
-reddit.com redditstatic.com script allow
+reddit.com g.redditmedia.com media allow
 reddit.com www.redditmedia.com frame allow
 reddit.com www.redditmedia.com script allow
+reddit.com www.redditstatic.com script allow
 sharepoint.com browser.pipe.aria.microsoft.com xhr allow
 sharepoint.com contentstorage.osi.office.net script allow
 sharepoint.com excel.officeapps.live.com frame allow
