@@ -30,6 +30,7 @@ ua-spoof: yandex.com false
 * 1st-party * allow
 * 1st-party frame allow
 * ajax.aspnetcdn.com script allow
+* ajax.googleapis.com script allow
 * apps.bdimg.com script allow
 * cdn.bootcss.com script allow
 * cdn.jsdelivr.net script allow
@@ -113,7 +114,6 @@ dropbox.com cfl.dropboxstatic.com xhr allow
 firefox.com mozilla.net script allow
 foxnews.com global.fncstatic.com script allow
 gamer.com.tw i2.bahamut.com.tw script allow
-github.com ajax.googleapis.com script allow
 github.com s3.amazonaws.com xhr allow
 github.com github-windows.s3.amazonaws.com script allow
 github.com pages-themes.github.io frame allow
@@ -121,8 +121,6 @@ github.com pages-themes.github.io script allow
 github.com githubusercontent.com xhr allow
 github.com render.githubusercontent.com frame allow
 github.com render.githubusercontent.com script allow
-github.io ajax.googleapis.com script allow
-google.com ajax.googleapis.com script allow
 google.com ssl.gstatic.com media allow
 google.com ssl.gstatic.com script allow
 google.com ssl.gstatic.com xhr allow
@@ -319,7 +317,6 @@ weibo.com weibo.com cookie allow
 wikipedia.org login.wikimedia.org script allow
 wikipedia.org meta.wikimedia.org script allow
 wikipedia.org upload.wikimedia.org media allow
-wikiwand.com ajax.googleapis.com script allow
 wikiwand.com d3isfnyiuldmfu.cloudfront.net media allow
 wikiwand.com d3isfnyiuldmfu.cloudfront.net script allow
 wikiwand.com db0nus869y26v.cloudfront.net xhr allow
@@ -331,7 +328,6 @@ yahoo.com s.yimg.com frame allow
 yahoo.com s.yimg.com script allow
 yahoo.com s.yimg.com xhr allow
 yandex.com yastatic.net script allow
-yelp.com ajax.googleapis.com script allow
 yelp.com s3-media1.fl.yelpcdn.com script allow
 yelp.com s3-media2.fl.yelpcdn.com script allow
 yelp.com s3-media4.fl.yelpcdn.com script allow
