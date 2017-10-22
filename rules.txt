@@ -74,7 +74,6 @@ baidu.com mu5.bdstatic.com script allow
 baidu.com mu6.bdstatic.com script allow
 baidu.com mu7.bdstatic.com script allow
 baidu.com online0.map.bdimg.com script allow
-baidu.com s1.pan.bdstatic.com script allow
 baidu.com tb1.bdstatic.com script allow
 baidu.com webmap0.map.bdstatic.com script allow
 baidu.com webmap1.map.bdstatic.com script allow
