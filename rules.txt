@@ -156,11 +156,9 @@ instagram.com static.xx.fbcdn.net script allow
 instagram.com www.tumblr.com frame allow
 instagram.com www.tumblr.com other allow
 instagram.com www.tumblr.com script allow
-jd.com dc.3.cn script allow
-jd.com f.3.cn script allow
+jd.com 3.cn script allow
 jd.com misc.360buyimg.com script allow
-jd.com p.3.cn script allow
-jd.com www.3.cn script allow
+jd.com static.360buyimg.com script allow
 kanfanba.com cdn.kanfanba.cn script allow
 kanfanba.com dn-staticfile.qbox.me script allow
 linkedin.com static.licdn.com script allow
