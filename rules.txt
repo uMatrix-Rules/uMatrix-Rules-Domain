@@ -124,6 +124,8 @@ github.com pages-themes.github.io script allow
 github.com githubusercontent.com xhr allow
 github.com render.githubusercontent.com frame allow
 github.com render.githubusercontent.com script allow
+google.com content.googleapis.com frame allow
+google.com content.googleapis.com script allow
 google.com ssl.gstatic.com media allow
 google.com ssl.gstatic.com script allow
 google.com ssl.gstatic.com xhr allow
