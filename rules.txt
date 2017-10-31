@@ -252,6 +252,7 @@ sohu.com statics.itc.cn script allow
 sourceforge.net a.fsdn.com script allow
 stackexchange.com cdn.sstatic.net script allow
 stackoverflow.com cdn.sstatic.net script allow
+tampermonkey.net tampermonkey.global.ssl.fastly.net script allow
 taobao.com ecpm.tanx.com script allow
 taobao.com g.alicdn.com frame allow
 taobao.com g.alicdn.com script allow
