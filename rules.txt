@@ -91,12 +91,12 @@ bbc.com ssl.bbc.co.uk xhr allow
 bbc.com static.bbc.co.uk script allow
 bbc.com static.bbci.co.uk script allow
 bbc.com www.bbc.co.uk script allow
+bilibili.com acgvideo.com media allow
 bilibili.com acgvideo.com xhr allow
-bilibili.com activity.hdslb.com script allow
 bilibili.com s1.hdslb.com script allow
-bilibili.com s1.hdslb.com xhr allow
 bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
+bilibili.com static.hdslb.com media allow
 bilibili.com static.hdslb.com script allow
 bitbucket.org ace-cdn.atlassian.com script allow
 bitbucket.org bitbucket-marketing-cdn.atlassian.com script allow
