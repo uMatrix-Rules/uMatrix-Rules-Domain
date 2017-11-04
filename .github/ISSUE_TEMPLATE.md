@@ -1,11 +1,5 @@
-在提交 issue 之前，请务必确认已检查以下内容：
-
-- README
-- WIKI
-- 其它 issue
-
-否则该 issue 可能会被视为无效
+请注意，您不被允许提交任何中文issue
 
 ===
 
-Please delete content above
+Please delete content here
