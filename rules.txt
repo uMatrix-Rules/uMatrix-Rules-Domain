@@ -164,8 +164,9 @@ instagram.com www.tumblr.com script allow
 jd.com 3.cn script allow
 jd.com misc.360buyimg.com script allow
 jd.com static.360buyimg.com script allow
-kanfanba.com cdn.kanfanba.cn script allow
-kanfanba.com dn-staticfile.qbox.me script allow
+kiva.org client.perimeterx.net script allow
+kiva.org www-kiva-org.global.ssl.fastly.net script allow
+kiva.org www-kiva-org.global.ssl.fastly.net xhr allow
 linkedin.com static.licdn.com script allow
 live.com auth.gfx.ms script allow
 live.com az725175.vo.msecnd.net script allow
