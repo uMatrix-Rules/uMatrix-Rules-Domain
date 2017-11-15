@@ -135,6 +135,7 @@ google.com translate.googleusercontent.com frame allow
 google.com translate.googleusercontent.com script allow
 google.com www.gstatic.com script allow
 google.com www.gstatic.com xhr allow
+godaddy.com img1.wsimg.com script allow
 hbr.org cdns.gigya.com script allow
 hbr.org cdns.us1.gigya.com frame allow
 hbr.org cdns.us1.gigya.com script allow
@@ -168,10 +169,12 @@ kiva.org client.perimeterx.net script allow
 kiva.org www-kiva-org.global.ssl.fastly.net script allow
 kiva.org www-kiva-org.global.ssl.fastly.net xhr allow
 linkedin.com static.licdn.com script allow
+live.com account.azureedge.net script allow
 live.com auth.gfx.ms script allow
 live.com az725175.vo.msecnd.net script allow
 live.com browser.pipe.aria.microsoft.com xhr allow
 live.com loki.delve.office.com xhr allow
+live.com mem.gfx.ms script allow
 live.com ow1.res.office365.com script allow
 live.com ow1.res.office365.com xhr allow
 live.com owamail.azureedge.net xhr allow
@@ -179,6 +182,7 @@ live.com r1.res.office365.com script allow
 live.com r1.res.office365.com xhr allow
 live.com r4.res.office365.com xhr allow
 live.com res.delve.office.com script allow
+live.com statics-uhf-eus.akamaized.net script allow
 live.com web.vortex.data.microsoft.com other allow
 live.com web.vortex.data.microsoft.com script allow
 microsoft.com assets.onestore.ms script allow
@@ -253,6 +257,8 @@ sohu.com statics.itc.cn script allow
 sourceforge.net a.fsdn.com script allow
 stackexchange.com cdn.sstatic.net script allow
 stackoverflow.com cdn.sstatic.net script allow
+steampowered.com steamstore-a.akamaihd.net script allow
+steampowered.com store.edgecast.steamstatic.com script allow
 tampermonkey.net tampermonkey.global.ssl.fastly.net script allow
 taobao.com ecpm.tanx.com script allow
 taobao.com g.alicdn.com frame allow
