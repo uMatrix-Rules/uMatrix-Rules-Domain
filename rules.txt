@@ -324,9 +324,10 @@ weibo.com js1.t.sinajs.cn script allow
 weibo.com js2.t.sinajs.cn script allow
 weibo.com jss.t.sinajs.cn script allow
 weibo.com login.sina.com.cn script allow
-weibo.com weibo.com cookie allow
+wikipedia.org cxserver.wikimedia.org xhr allow
 wikipedia.org login.wikimedia.org script allow
 wikipedia.org meta.wikimedia.org script allow
+wikipedia.org recommend.wmflabs.org xhr allow
 wikipedia.org upload.wikimedia.org media allow
 wikiwand.com d3isfnyiuldmfu.cloudfront.net media allow
 wikiwand.com d3isfnyiuldmfu.cloudfront.net script allow
