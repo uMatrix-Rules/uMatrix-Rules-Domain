@@ -64,7 +64,9 @@ alipay.com gw.alipayobjects.com script allow
 alipay.com os.alipayobjects.com script allow
 alipay.com t.alipayobjects.com media allow
 alipay.com t.alipayobjects.com script allow
+amazon.cn images-cn.ssl-images-amazon.com media allow
 amazon.cn images-cn.ssl-images-amazon.com script allow
+amazon.cn images-cn.ssl-images-amazon.com xhr allow
 amazon.cn m.media-amazon.com script allow
 amazon.com a0.awsstatic.com script allow
 amazon.com images-na.ssl-images-amazon.com script allow
