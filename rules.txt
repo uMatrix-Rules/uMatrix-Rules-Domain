@@ -36,6 +36,7 @@ ua-spoof: yandex.com false
 * cdn.jsdelivr.net script allow
 * cdn.staticfile.org script allow
 * cdnjs.cloudflare.com script allow
+* cloudfront.net script allow
 * code.jquery.com script allow
 * maxcdn.bootstrapcdn.com script allow
 163.com api.money.126.net script allow
@@ -187,6 +188,7 @@ live.com res.delve.office.com script allow
 live.com statics-uhf-eus.akamaized.net script allow
 live.com web.vortex.data.microsoft.com other allow
 live.com web.vortex.data.microsoft.com script allow
+mega.nz mega.co.nz xhr allow
 microsoft.com assets.onestore.ms script allow
 microsoft.com auth.gfx.ms script allow
 microsoft.com i2-msdn.sec.s-msft.com script allow
@@ -201,6 +203,7 @@ microsoftonline.com www.office.com frame allow
 microsoftonline.com www.office.com script allow
 mozilla.org mozilla.net script allow
 mozilla.org cdn-production.discourse.mozilla-community.org script allow
+mozilla.org netdna-ssl.com script allow
 netflix.com codex.nflxext.com script allow
 netflix.com nflxext.com media allow
 nytimes.com a1.nyt.com script allow
@@ -221,6 +224,7 @@ openload.co 1fiafqj.oloadcdn.net xhr allow
 opera.com addons-static.operacdn.com script allow
 opera.com www-static.operacdn.com script allow
 pixiv.net d.pixiv.org frame allow
+pixiv.net pximg.net xhr allow
 qq.com captcha.gtimg.com frame allow
 qq.com captcha.gtimg.com script allow
 qq.com rescdn.qqmail.com script allow
