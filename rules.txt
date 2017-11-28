@@ -216,7 +216,9 @@ nytimes.com web-player.art19.com script allow
 office.com browser.pipe.aria.microsoft.com xhr allow
 office.com easofficehome.msocdn.com script allow
 office.com graph.microsoft.com xhr allow
+office.com msocdn.com script allow
 office.com ocws.officeapps.live.com xhr allow
+office.com office365.com frame allow
 office.com r1.res.office365.com script allow
 office365.com browser.pipe.aria.microsoft.com xhr allow
 openload.co 1fiafqi.oloadcdn.net xhr allow
