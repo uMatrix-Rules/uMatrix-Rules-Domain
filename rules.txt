@@ -117,6 +117,8 @@ douyu.com webconf.douyucdn.cn script allow
 dropbox.com 127.0.0.1 xhr allow
 dropbox.com dropboxstatic.com script allow
 dropbox.com cfl.dropboxstatic.com xhr allow
+ebay.com ebayrtm.com script allow
+ebay.com ebaystatic.com script allow
 firefox.com mozilla.net script allow
 foxnews.com global.fncstatic.com script allow
 gamer.com.tw i2.bahamut.com.tw script allow
