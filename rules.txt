@@ -17,12 +17,6 @@ referrer-spoof: behind-the-scene false
 referrer-spoof: bilibili.com false
 referrer-spoof: dropbox.com false
 referrer-spoof: firefox.com false
-ua-spoof: * true
-ua-spoof: behind-the-scene false
-ua-spoof: firefox.com false
-ua-spoof: iobit.com false
-ua-spoof: mozilla.org false
-ua-spoof: yandex.com false
 * * * block
 * * css allow
 * * frame block
