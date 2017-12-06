@@ -359,4 +359,6 @@ youku.com g.alicdn.com script allow
 youku.com js.ykimg.com script allow
 youku.com r1.ykimg.com script allow
 youku.com ykimg.com media allow
+youtube.com google.com cookie allow
+youtube.com google.com script allow
 youtube.com googlevideo.com xhr allow
