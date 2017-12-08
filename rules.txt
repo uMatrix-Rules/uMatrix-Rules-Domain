@@ -311,7 +311,7 @@ tudou.com tip.tudou.soku.com script allow
 twitch.tv usher.ttvnw.net xhr allow
 twitch.tv sjc01.hls.ttvnw.net xhr allow
 twitch.tv web-cdn.ttvnw.net script allow
-twitter.com abs.twimg.com script allow
+twitter.com twimg.com script allow
 twitter.com assets.pscp.tv script allow
 twitter.com ton.twimg.com script allow
 twitter.com video.twimg.com media allow
