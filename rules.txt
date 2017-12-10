@@ -141,6 +141,11 @@ hbr.org cdns.us1.gigya.com script allow
 html5test.com api.whichbrowser.net script allow
 huffingtonpost.com s.m.huffpost.com script allow
 huffingtonpost.com s.m.huffpost.com xhr allow
+huomao.com huotaotv.cn frame allow
+huomao.com huotaotv.cn media allow
+huomao.com huotaotv.cn script allow
+huomao.com huotaotv.cn xhr allow
+huomao.com huotaotv.cn cookie allow
 ifeng.com c0.ifengimg.com script allow
 ifeng.com c1.ifengimg.com script allow
 ifeng.com h2.ifengimg.com script allow
@@ -226,6 +231,11 @@ opera.com addons-static.operacdn.com script allow
 opera.com www-static.operacdn.com script allow
 pixiv.net d.pixiv.org frame allow
 pixiv.net pximg.net xhr allow
+panda.tv pdim.gs xiongmaoxingyan.com frame allow
+panda.tv pdim.gs xiongmaoxingyan.com script allow
+panda.tv pdim.gs xiongmaoxingyan.com xhr allow
+panda.tv pdim.gs xiongmaoxingyan.com cookie allow
+panda.tv pdim.gs xiongmaoxingyan.com media allow
 qq.com captcha.gtimg.com frame allow
 qq.com captcha.gtimg.com script allow
 qq.com rescdn.qqmail.com script allow
@@ -362,3 +372,8 @@ youku.com ykimg.com media allow
 youtube.com google.com cookie allow
 youtube.com google.com script allow
 youtube.com googlevideo.com xhr allow
+zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com frame allow
+zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com media allow
+zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com script allow
+zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com xhr allow
+zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com cookie allow
