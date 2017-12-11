@@ -1,4 +1,4 @@
-# (c) Rictusempra @ https://github.com/Rictusempra/uMatrix-Rules
+# (c) uMatrix-Rules @ https://github.com/uMatrix-Rules
 # LICENSED UNDER CC BY-NC-SA 4.0
 
 https-strict: * true
