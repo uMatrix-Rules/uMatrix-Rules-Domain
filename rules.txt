@@ -481,7 +481,7 @@ wikipedia.org upload.wikimedia.org media allow
 wikiwand.com d3isfnyiuldmfu.cloudfront.net media allow
 wikiwand.com d3isfnyiuldmfu.cloudfront.net script allow
 wikiwand.com db0nus869y26v.cloudfront.net xhr allow
-wikiwand.com en.wikipedia.org script allow
+wikiwand.com wikipedia.org script allow
 wikiwand.com s3.amazonaws.com media allow
 wikiwand.com s3.amazonaws.com xhr allow
 
