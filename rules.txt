@@ -23,6 +23,8 @@ referrer-spoof: firefox.com false
 * * image allow
 * 1st-party * allow
 * 1st-party frame allow
+
+#public CDN library
 * ajax.aspnetcdn.com script allow
 * ajax.googleapis.com script allow
 * apps.bdimg.com script allow
@@ -33,6 +35,8 @@ referrer-spoof: firefox.com false
 * cloudfront.net script allow
 * code.jquery.com script allow
 * maxcdn.bootstrapcdn.com script allow
+
+#163
 163.com api.money.126.net script allow
 163.com data.live.126.net script allow
 163.com g.cn.miaozhen.com script allow
@@ -50,8 +54,11 @@ referrer-spoof: firefox.com false
 163.com static.ws.126.net script allow
 163.com ursdoccdn.nosdn.127.net script allow
 163.com wr.da.netease.com script allow
+
+#Acfun
 acfun.cn cdn.aixifan.com script allow
-aliexpress.com i.alicdn.com script allow
+
+#Ali
 alipay.com a.alipayobjects.com script allow
 alipay.com as.alipayobjects.com script allow
 alipay.com assets.alicdn.com script allow
@@ -59,13 +66,45 @@ alipay.com gw.alipayobjects.com script allow
 alipay.com os.alipayobjects.com script allow
 alipay.com t.alipayobjects.com media allow
 alipay.com t.alipayobjects.com script allow
+taobao.com ecpm.tanx.com script allow
+taobao.com g.alicdn.com frame allow
+taobao.com g.alicdn.com script allow
+taobao.com img.alicdn.com xhr allow
+taobao.com jipiao.alitrip.com script allow
+taobao.com localhost.wwbizsrv.alibaba.com script allow
+taobao.com pages.tmall.com xhr allow
+taobao.com pass.tmall.com script allow
+taobao.com tbip.alicdn.com script allow
+taobao.com tce.alicdn.com script allow
+tmall.com amos.alicdn.com script allow
+tmall.com desc.alicdn.com script allow
+tmall.com g.alicdn.com frame allow
+tmall.com g.alicdn.com script allow
+tmall.com g.alicdn.com xhr allow
+tmall.com gy.taobao.com script allow
+tmall.com hdc1.alicdn.com script allow
+tmall.com login.taobao.com script allow
+tmall.com mdskip.taobao.com script allow
+tmall.com suggest.taobao.com script allow
+tmall.com uaction.alicdn.com script allow
+
+#AliExpress
+aliexpress.com i.alicdn.com script allow
+
+#z.cn
 amazon.cn images-cn.ssl-images-amazon.com media allow
 amazon.cn images-cn.ssl-images-amazon.com script allow
 amazon.cn images-cn.ssl-images-amazon.com xhr allow
 amazon.cn m.media-amazon.com script allow
+
+#Amazon
 amazon.com a0.awsstatic.com script allow
 amazon.com images-na.ssl-images-amazon.com script allow
+
+#appinn
 appinn.com cdn.doublemax.net script allow
+
+#Baidu
 baidu.com bkssl.bdimg.com script allow
 baidu.com fex.bdstatic.com script allow
 baidu.com gss0.bdstatic.com script allow
@@ -80,6 +119,8 @@ baidu.com webmap0.map.bdstatic.com script allow
 baidu.com webmap1.map.bdstatic.com script allow
 baidu.com webmap2.map.bdstatic.com script allow
 baidu.com wkstatic.bdimg.com script allow
+
+#BBC
 bbc.com mybbc.files.bbci.co.uk script allow
 bbc.com nav.files.bbci.co.uk script allow
 bbc.com search-suggest.api.bbci.co.uk xhr allow
@@ -88,6 +129,8 @@ bbc.com ssl.bbc.co.uk xhr allow
 bbc.com static.bbc.co.uk script allow
 bbc.com static.bbci.co.uk script allow
 bbc.com www.bbc.co.uk script allow
+
+#Bilibili
 bilibili.com acgvideo.com media allow
 bilibili.com acgvideo.com xhr allow
 bilibili.com s1.hdslb.com script allow
@@ -95,27 +138,50 @@ bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
 bilibili.com static.hdslb.com media allow
 bilibili.com static.hdslb.com script allow
+
+#BitBucket
 bitbucket.org ace-cdn.atlassian.com script allow
 bitbucket.org bitbucket-marketing-cdn.atlassian.com script allow
 bitbucket.org d301sr5gafysq2.cloudfront.net script allow
+
+#Booking.com
 booking.com q-ak.bstatic.com script allow
 booking.com r-ak.bstatic.com script allow
+
+#CSDN
 csdn.net csdnimg.cn script allow
+
+#DailyMotion
 dailymotion.com static1.dmcdn.net script allow
+
+#DeviantArt
 deviantart.com st.deviantart.net script allow
+
+#Discord
 discordapp.com discord.gg xhr allow
+
+#Douyu
 douyu.com apm.douyucdn.cn xhr allow
 douyu.com dotcounter.douyucdn.cn xhr allow
 douyu.com shark.douyucdn.cn script allow
 douyu.com webconf.douyucdn.cn script allow
+
+#Dropbox
 dropbox.com 127.0.0.1 xhr allow
 dropbox.com dropboxstatic.com script allow
 dropbox.com cfl.dropboxstatic.com xhr allow
+
+#eBay
 ebay.com ebayrtm.com script allow
 ebay.com ebaystatic.com script allow
-firefox.com mozilla.net script allow
+
+#FoxNews
 foxnews.com global.fncstatic.com script allow
+
+#gamer.tw
 gamer.com.tw i2.bahamut.com.tw script allow
+
+#GitHub
 github.com s3.amazonaws.com xhr allow
 github.com github-windows.s3.amazonaws.com script allow
 github.com pages-themes.github.io frame allow
@@ -123,6 +189,8 @@ github.com pages-themes.github.io script allow
 github.com githubusercontent.com xhr allow
 github.com render.githubusercontent.com frame allow
 github.com render.githubusercontent.com script allow
+
+#Google
 google.com content.googleapis.com frame allow
 google.com content.googleapis.com script allow
 google.com ssl.gstatic.com media allow
@@ -134,18 +202,30 @@ google.com translate.googleusercontent.com frame allow
 google.com translate.googleusercontent.com script allow
 google.com www.gstatic.com script allow
 google.com www.gstatic.com xhr allow
+
+#GoDaddy
 godaddy.com img1.wsimg.com script allow
+
+#HBR
 hbr.org cdns.gigya.com script allow
 hbr.org cdns.us1.gigya.com frame allow
 hbr.org cdns.us1.gigya.com script allow
+
+#HTML5Test
 html5test.com api.whichbrowser.net script allow
+
+#HuffingtonPost
 huffingtonpost.com s.m.huffpost.com script allow
 huffingtonpost.com s.m.huffpost.com xhr allow
+
+#Huomao
 huomao.com huotaotv.cn frame allow
 huomao.com huotaotv.cn media allow
 huomao.com huotaotv.cn script allow
 huomao.com huotaotv.cn xhr allow
 huomao.com huotaotv.cn cookie allow
+
+#Ifeng
 ifeng.com c0.ifengimg.com script allow
 ifeng.com c1.ifengimg.com script allow
 ifeng.com h2.ifengimg.com script allow
@@ -157,6 +237,8 @@ ifeng.com p0.ifengimg.com media allow
 ifeng.com p0.ifengimg.com script allow
 ifeng.com y0.ifengimg.com script allow
 ifeng.com y1.ifengimg.com script allow
+
+#Instagram
 instagram.com assets.tumblr.com frame allow
 instagram.com assets.tumblr.com script allow
 instagram.com cdn.rawgit.com script allow
@@ -166,13 +248,21 @@ instagram.com static.xx.fbcdn.net script allow
 instagram.com www.tumblr.com frame allow
 instagram.com www.tumblr.com other allow
 instagram.com www.tumblr.com script allow
+
+#JD
 jd.com 3.cn script allow
 jd.com misc.360buyimg.com script allow
 jd.com static.360buyimg.com script allow
+
+#Kiva
 kiva.org client.perimeterx.net script allow
 kiva.org www-kiva-org.global.ssl.fastly.net script allow
 kiva.org www-kiva-org.global.ssl.fastly.net xhr allow
+
+#LinkedIn
 linkedin.com static.licdn.com script allow
+
+#Microsoft
 live.com account.azureedge.net script allow
 live.com auth.gfx.ms script allow
 live.com az725175.vo.msecnd.net script allow
@@ -192,7 +282,6 @@ live.com sharepoint.com frame allow
 live.com statics-uhf-eus.akamaized.net script allow
 live.com web.vortex.data.microsoft.com other allow
 live.com web.vortex.data.microsoft.com script allow
-mega.nz mega.co.nz xhr allow
 microsoft.com assets.onestore.ms script allow
 microsoft.com auth.gfx.ms script allow
 microsoft.com i2-msdn.sec.s-msft.com script allow
@@ -205,18 +294,6 @@ microsoft.com statics-uhf-neu.akamaized.net script allow
 microsoftonline.com secure.aadcdn.microsoftonline-p.com script allow
 microsoftonline.com www.office.com frame allow
 microsoftonline.com www.office.com script allow
-mozilla.org mozilla.net script allow
-mozilla.org cdn-production.discourse.mozilla-community.org script allow
-mozilla.org netdna-ssl.com script allow
-netflix.com codex.nflxext.com script allow
-netflix.com nflxext.com media allow
-nytimes.com a1.nyt.com script allow
-nytimes.com int.nyt.com script allow
-nytimes.com int.nyt.com xhr allow
-nytimes.com s1.nyt.com xhr allow
-nytimes.com static01.nyt.com script allow
-nytimes.com vp.nyt.com media allow
-nytimes.com web-player.art19.com script allow
 office.com browser.pipe.aria.microsoft.com xhr allow
 office.com easofficehome.msocdn.com script allow
 office.com graph.microsoft.com xhr allow
@@ -225,24 +302,6 @@ office.com ocws.officeapps.live.com xhr allow
 office.com office365.com frame allow
 office.com r1.res.office365.com script allow
 office365.com browser.pipe.aria.microsoft.com xhr allow
-openload.co 1fiafqi.oloadcdn.net xhr allow
-openload.co 1fiafqj.oloadcdn.net xhr allow
-opera.com addons-static.operacdn.com script allow
-opera.com www-static.operacdn.com script allow
-pixiv.net d.pixiv.org frame allow
-pixiv.net pximg.net xhr allow
-panda.tv pdim.gs xiongmaoxingyan.com frame allow
-panda.tv pdim.gs xiongmaoxingyan.com script allow
-panda.tv pdim.gs xiongmaoxingyan.com xhr allow
-panda.tv pdim.gs xiongmaoxingyan.com cookie allow
-panda.tv pdim.gs xiongmaoxingyan.com media allow
-qq.com captcha.gtimg.com frame allow
-qq.com captcha.gtimg.com script allow
-qq.com rescdn.qqmail.com script allow
-reddit.com g.redditmedia.com media allow
-reddit.com www.redditmedia.com frame allow
-reddit.com www.redditmedia.com script allow
-reddit.com www.redditstatic.com script allow
 sharepoint.com browser.pipe.aria.microsoft.com xhr allow
 sharepoint.com contentstorage.osi.office.net script allow
 sharepoint.com excel.officeapps.live.com frame allow
@@ -253,6 +312,60 @@ sharepoint.com spoprod-a.akamaihd.net script allow
 sharepoint.com static.sharepointonline.com script allow
 sharepoint.com word-edit.officeapps.live.com frame allow
 sharepoint.com word-view.officeapps.live.com frame allow
+
+#Mega
+mega.nz mega.co.nz xhr allow
+
+#Mozilla
+firefox.com mozilla.net script allow
+mozilla.org mozilla.net script allow
+mozilla.org cdn-production.discourse.mozilla-community.org script allow
+mozilla.org netdna-ssl.com script allow
+
+#Netflix
+netflix.com codex.nflxext.com script allow
+netflix.com nflxext.com media allow
+
+#NYTimes
+nytimes.com a1.nyt.com script allow
+nytimes.com int.nyt.com script allow
+nytimes.com int.nyt.com xhr allow
+nytimes.com s1.nyt.com xhr allow
+nytimes.com static01.nyt.com script allow
+nytimes.com vp.nyt.com media allow
+nytimes.com web-player.art19.com script allow
+
+#OpenLoad
+openload.co 1fiafqi.oloadcdn.net xhr allow
+openload.co 1fiafqj.oloadcdn.net xhr allow
+
+#Opera
+opera.com addons-static.operacdn.com script allow
+opera.com www-static.operacdn.com script allow
+
+#Pixiv
+pixiv.net d.pixiv.org frame allow
+pixiv.net pximg.net xhr allow
+
+#panda.tv
+panda.tv pdim.gs xiongmaoxingyan.com frame allow
+panda.tv pdim.gs xiongmaoxingyan.com script allow
+panda.tv pdim.gs xiongmaoxingyan.com xhr allow
+panda.tv pdim.gs xiongmaoxingyan.com cookie allow
+panda.tv pdim.gs xiongmaoxingyan.com media allow
+
+#QQ
+qq.com captcha.gtimg.com frame allow
+qq.com captcha.gtimg.com script allow
+qq.com rescdn.qqmail.com script allow
+
+#Reddit
+reddit.com g.redditmedia.com media allow
+reddit.com www.redditmedia.com frame allow
+reddit.com www.redditmedia.com script allow
+reddit.com www.redditstatic.com script allow
+
+#Sina
 sina.com.cn hq.sinajs.cn script allow
 sina.com.cn i0.sinaimg.cn script allow
 sina.com.cn n.sinaimg.cn script allow
@@ -269,48 +382,51 @@ sina.com.tw wx1.sinaimg.cn xhr allow
 sina.com.tw wx2.sinaimg.cn xhr allow
 sina.com.tw wx3.sinaimg.cn xhr allow
 sina.com.tw wx4.sinaimg.cn xhr allow
+
+#Souhu
 sohu.com m1.auto.itc.cn script allow
 sohu.com statics.itc.cn script allow
+
+#SourceForge
 sourceforge.net a.fsdn.com script allow
+
+#StackExchange
 stackexchange.com cdn.sstatic.net script allow
+
+#StackOverflow
 stackoverflow.com cdn.sstatic.net script allow
+
+#Steam
 steampowered.com steamstore-a.akamaihd.net script allow
 steampowered.com store.edgecast.steamstatic.com script allow
+
+#Tampermonkey
 tampermonkey.net tampermonkey.global.ssl.fastly.net script allow
-taobao.com ecpm.tanx.com script allow
-taobao.com g.alicdn.com frame allow
-taobao.com g.alicdn.com script allow
-taobao.com img.alicdn.com xhr allow
-taobao.com jipiao.alitrip.com script allow
-taobao.com localhost.wwbizsrv.alibaba.com script allow
-taobao.com pages.tmall.com xhr allow
-taobao.com pass.tmall.com script allow
-taobao.com tbip.alicdn.com script allow
-taobao.com tce.alicdn.com script allow
+
+#TheGuardian
 theguardian.com assets.guim.co.uk script allow
 theguardian.com assets.guim.co.uk xhr allow
+
+#TheTimesNews
 thetimesnews.com cdn.gatehousemedia.com script allow
+
+#Time
 time.com d2nx6ydw3e5y5d.cloudfront.net script allow
 time.com s0.wp.com script allow
 time.com s1.wp.com script allow
 time.com s2.wp.com script allow
-tmall.com amos.alicdn.com script allow
-tmall.com desc.alicdn.com script allow
-tmall.com g.alicdn.com frame allow
-tmall.com g.alicdn.com script allow
-tmall.com g.alicdn.com xhr allow
-tmall.com gy.taobao.com script allow
-tmall.com hdc1.alicdn.com script allow
-tmall.com login.taobao.com script allow
-tmall.com mdskip.taobao.com script allow
-tmall.com suggest.taobao.com script allow
-tmall.com uaction.alicdn.com script allow
+
+#TripAdvisor
 tripadvisor.com static.tacdn.com script allow
+
+#TSDM
 tsdm.me follow.v.t.qq.com frame allow
 tsdm.me follow.v.t.qq.com script allow
 tsdm.me mat1.gtimg.com script allow
 tsdm.me push.zhanzhang.baidu.com script allow
 tsdm.me www.tsdmw.net script allow
+
+#Tudou
 tudou.com account.youku.com script allow
 tudou.com g.alicdn.com script allow
 tudou.com r1.ykimg.com script allow
@@ -318,9 +434,13 @@ tudou.com static.soku.com script allow
 tudou.com static.youku.com script allow
 tudou.com tip.soku.com script allow
 tudou.com tip.tudou.soku.com script allow
+
+#Twitch
 twitch.tv usher.ttvnw.net xhr allow
 twitch.tv sjc01.hls.ttvnw.net xhr allow
 twitch.tv web-cdn.ttvnw.net script allow
+
+#Twitter
 twitter.com twimg.com script allow
 twitter.com assets.pscp.tv script allow
 twitter.com ton.twimg.com script allow
@@ -328,38 +448,58 @@ twitter.com video.twimg.com media allow
 twitter.com video.twimg.com xhr allow
 twitter.com www.pscp.tv frame allow
 twitter.com www.pscp.tv script allow
+
+#vcb-s
 vcb-s.com cache.cswsadlab.com script allow
+
+#Walmart
 walmart.com a14.wal.co script allow
 walmart.com b.wal.co script allow
 walmart.com i5.walmartimages.com script allow
+
+#WashingtonPost
 washingtonpost.com cdn.springserve.com media allow
 washingtonpost.com d21rhj7n383afu.cloudfront.net script allow
 washingtonpost.com loxodo-ct.ext.nile.works xhr allow
+
+#Weibo
 weibo.com h5.sinaimg.cn script allow
 weibo.com js.t.sinajs.cn script allow
 weibo.com js1.t.sinajs.cn script allow
 weibo.com js2.t.sinajs.cn script allow
 weibo.com jss.t.sinajs.cn script allow
 weibo.com login.sina.com.cn script allow
+
+#Wikipedia
 wikipedia.org cxserver.wikimedia.org xhr allow
 wikipedia.org login.wikimedia.org script allow
 wikipedia.org meta.wikimedia.org script allow
 wikipedia.org recommend.wmflabs.org xhr allow
 wikipedia.org upload.wikimedia.org media allow
+
+#Wikiwand
 wikiwand.com d3isfnyiuldmfu.cloudfront.net media allow
 wikiwand.com d3isfnyiuldmfu.cloudfront.net script allow
 wikiwand.com db0nus869y26v.cloudfront.net xhr allow
 wikiwand.com en.wikipedia.org script allow
 wikiwand.com s3.amazonaws.com media allow
 wikiwand.com s3.amazonaws.com xhr allow
+
+#Yahoo
 yahoo.com jparack03.vpg.cdn.yimg.com xhr allow
 yahoo.com s.yimg.com frame allow
 yahoo.com s.yimg.com script allow
 yahoo.com s.yimg.com xhr allow
+
+#Yandex
 yandex.com yastatic.net script allow
+
+#Yelp
 yelp.com s3-media1.fl.yelpcdn.com script allow
 yelp.com s3-media2.fl.yelpcdn.com script allow
 yelp.com s3-media4.fl.yelpcdn.com script allow
+
+#Youku
 youku.com 127.0.0.1 media allow
 youku.com 127.0.0.1 script allow
 youku.com 127.0.0.1 xhr allow
@@ -369,9 +509,13 @@ youku.com g.alicdn.com script allow
 youku.com js.ykimg.com script allow
 youku.com r1.ykimg.com script allow
 youku.com ykimg.com media allow
+
+#YouTube
 youtube.com google.com cookie allow
 youtube.com google.com script allow
 youtube.com googlevideo.com xhr allow
+
+#zhanqi.tv
 zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com frame allow
 zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com media allow
 zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com script allow
