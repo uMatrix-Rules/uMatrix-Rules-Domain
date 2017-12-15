@@ -118,6 +118,7 @@ baidu.com tb1.bdstatic.com script allow
 baidu.com webmap0.map.bdstatic.com script allow
 baidu.com webmap1.map.bdstatic.com script allow
 baidu.com webmap2.map.bdstatic.com script allow
+baidu.com wkbos.bdimg.com script allow
 baidu.com wkstatic.bdimg.com script allow
 
 #BBC
