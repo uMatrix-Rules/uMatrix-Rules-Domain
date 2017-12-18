@@ -26,6 +26,7 @@ referrer-spoof: firefox.com false
 
 #public CDN library
 * ajax.aspnetcdn.com script allow
+* ajax.cloudflare.com script allow
 * ajax.googleapis.com script allow
 * apps.bdimg.com script allow
 * cdn.bootcss.com script allow
