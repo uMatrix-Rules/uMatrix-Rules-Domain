@@ -36,6 +36,7 @@ referrer-spoof: firefox.com false
 * cloudfront.net script allow
 * code.jquery.com script allow
 * maxcdn.bootstrapcdn.com script allow
+* unpkg.com script allow
 
 #163
 163.com api.money.126.net script allow
