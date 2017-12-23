@@ -108,7 +108,6 @@ appinn.com cdn.doublemax.net script allow
 
 #Baidu
 baidu.com bkssl.bdimg.com script allow
-baidu.com fex.bdstatic.com script allow
 baidu.com gss0.bdstatic.com script allow
 baidu.com iknowpc.bdimg.com script allow
 baidu.com mu5.bdstatic.com script allow
@@ -481,6 +480,12 @@ weibo.com js1.t.sinajs.cn script allow
 weibo.com js2.t.sinajs.cn script allow
 weibo.com jss.t.sinajs.cn script allow
 weibo.com login.sina.com.cn script allow
+
+#Wikia
+wikia.com s3.amazonaws.com script allow
+wikia.com slot1-images.wikia.nocookie.net script allow
+wikia.com vignette.wikia.nocookie.net media allow
+wikia.com static.wikia.nocookie.net script allow
 
 #Wikipedia
 wikipedia.org cxserver.wikimedia.org xhr allow
