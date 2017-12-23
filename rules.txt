@@ -322,9 +322,10 @@ sharepoint.com word-view.officeapps.live.com frame allow
 mega.nz mega.co.nz xhr allow
 
 #Mozilla
-developer.mozilla.org mdn.mozillademos.org frame allow
-developer.mozilla.org mdn.mozillademos.org script allow
 firefox.com mozilla.net script allow
+mozilla.org cloudfront.net media allow
+mozilla.org mdn.mozillademos.org frame allow
+mozilla.org mdn.mozillademos.org script allow
 mozilla.org mozilla.net script allow
 mozilla.org cdn-production.discourse.mozilla-community.org script allow
 mozilla.org netdna-ssl.com script allow
