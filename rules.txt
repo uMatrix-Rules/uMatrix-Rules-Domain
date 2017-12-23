@@ -140,6 +140,8 @@ bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
 bilibili.com static.hdslb.com media allow
 bilibili.com static.hdslb.com script allow
+passport.bilibili.com api.geetest.com script allow
+passport.bilibili.com static.geetest.com script allow
 
 #BitBucket
 bitbucket.org ace-cdn.atlassian.com script allow
