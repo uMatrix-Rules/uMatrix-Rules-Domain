@@ -532,3 +532,10 @@ zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com media allow
 zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com script allow
 zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com xhr allow
 zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com cookie allow
+
+#Mozilla Developer Network
+developer.mozilla.org mdn.mozillademos.org frame allow
+developer.mozilla.org mdn.mozillademos.org script allow
+
+#qzone
+user.qzone.qq.com qzonestyle.gtimg.cn script allow
