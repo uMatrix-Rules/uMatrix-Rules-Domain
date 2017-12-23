@@ -136,6 +136,7 @@ bbc.com www.bbc.co.uk script allow
 #Bilibili
 bilibili.com acgvideo.com media allow
 bilibili.com acgvideo.com xhr allow
+bilibili.com activity.hdslb.com script allow
 bilibili.com s1.hdslb.com script allow
 bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
