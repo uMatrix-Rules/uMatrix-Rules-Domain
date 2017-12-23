@@ -385,6 +385,9 @@ sina.com.tw wx2.sinaimg.cn xhr allow
 sina.com.tw wx3.sinaimg.cn xhr allow
 sina.com.tw wx4.sinaimg.cn xhr allow
 
+#SONY
+sony.com.hk sony.eu script allow
+
 #Souhu
 sohu.com m1.auto.itc.cn script allow
 sohu.com statics.itc.cn script allow
