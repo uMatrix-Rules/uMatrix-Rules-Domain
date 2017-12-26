@@ -164,6 +164,9 @@ deviantart.com st.deviantart.net script allow
 #Discord
 discordapp.com discord.gg xhr allow
 
+#Douban
+douban.com img3.doubanio.com script allow
+
 #Douyu
 douyu.com apm.douyucdn.cn xhr allow
 douyu.com dotcounter.douyucdn.cn xhr allow
@@ -323,6 +326,8 @@ mega.nz mega.co.nz xhr allow
 #Mozilla
 firefox.com mozilla.net script allow
 mozilla.org cloudfront.net media allow
+mozilla.org interactive-examples.mdn.mozilla.net frame allow
+mozilla.org location.services.mozilla.com xhr allow
 mozilla.org mdn.mozillademos.org frame allow
 mozilla.org mdn.mozillademos.org script allow
 mozilla.org mozilla.net script allow
@@ -365,7 +370,7 @@ panda.tv pdim.gs xiongmaoxingyan.com media allow
 qq.com captcha.gtimg.com frame allow
 qq.com captcha.gtimg.com script allow
 qq.com rescdn.qqmail.com script allow
-user.qzone.qq.com qzonestyle.gtimg.cn script allow
+qq.com qzonestyle.gtimg.cn script allow
 
 #Reddit
 reddit.com g.redditmedia.com media allow
@@ -390,6 +395,9 @@ sina.com.tw wx1.sinaimg.cn xhr allow
 sina.com.tw wx2.sinaimg.cn xhr allow
 sina.com.tw wx3.sinaimg.cn xhr allow
 sina.com.tw wx4.sinaimg.cn xhr allow
+
+#snipaste
+snipaste.com raw.githubusercontent.com xhr allow
 
 #SONY
 sony.com.hk sony.eu script allow
