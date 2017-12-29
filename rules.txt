@@ -462,7 +462,6 @@ twitch.tv web-cdn.ttvnw.net script allow
 #Twitter
 twitter.com twimg.com script allow
 twitter.com assets.pscp.tv script allow
-twitter.com ton.twimg.com script allow
 twitter.com video.twimg.com media allow
 twitter.com video.twimg.com xhr allow
 twitter.com www.pscp.tv frame allow
@@ -525,15 +524,15 @@ yelp.com s3-media2.fl.yelpcdn.com script allow
 yelp.com s3-media4.fl.yelpcdn.com script allow
 
 #Youku
-youku.com 127.0.0.1 media allow
+youku.com * media allow
+youku.com * xhr allow
 youku.com 127.0.0.1 script allow
-youku.com 127.0.0.1 xhr allow
 youku.com aeu.alicdn.com script allow
 youku.com af.alicdn.com script allow
 youku.com g.alicdn.com script allow
 youku.com js.ykimg.com script allow
 youku.com r1.ykimg.com script allow
-youku.com ykimg.com media allow
+youku.com ynuf.alipay.com xhr block
 
 #YouTube
 youtube.com google.com cookie allow
