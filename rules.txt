@@ -133,15 +133,16 @@ bbc.com static.bbci.co.uk script allow
 bbc.com www.bbc.co.uk script allow
 
 #Bilibili
+bilibili.com 00cdn.com xhr allow
 bilibili.com acgvideo.com media allow
 bilibili.com acgvideo.com xhr allow
+bilibili.com api.geetest.com script allow
 bilibili.com s1.hdslb.com script allow
 bilibili.com s2.hdslb.com script allow
 bilibili.com s3.hdslb.com script allow
+bilibili.com static.geetest.com script allow
 bilibili.com static.hdslb.com media allow
 bilibili.com static.hdslb.com script allow
-passport.bilibili.com api.geetest.com script allow
-passport.bilibili.com static.geetest.com script allow
 
 #BitBucket
 bitbucket.org ace-cdn.atlassian.com script allow
@@ -268,6 +269,12 @@ kiva.org www-kiva-org.global.ssl.fastly.net xhr allow
 
 #LinkedIn
 linkedin.com static.licdn.com script allow
+
+#LOL-US
+leagueoflegends.com cloudfront.net media allow
+leagueoflegends.com ekg.riotgames.com xhr allow
+leagueoflegends.com lolstatic-a.akamaihd.net script allow
+leagueoflegends.com lolstatic-a.akamaihd.net xhr allow
 
 #Microsoft
 live.com account.azureedge.net script allow
