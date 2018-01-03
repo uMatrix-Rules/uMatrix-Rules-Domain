@@ -68,14 +68,18 @@ alipay.com gw.alipayobjects.com script allow
 alipay.com os.alipayobjects.com script allow
 alipay.com t.alipayobjects.com media allow
 alipay.com t.alipayobjects.com script allow
+taobao.com a1.alicdn.com frame allow
+taobao.com assets.alicdn.com script allow
 taobao.com ecpm.tanx.com script allow
 taobao.com g.alicdn.com frame allow
 taobao.com g.alicdn.com script allow
+taobao.com g.alicdn.com xhr allow
 taobao.com img.alicdn.com xhr allow
 taobao.com jipiao.alitrip.com script allow
 taobao.com localhost.wwbizsrv.alibaba.com script allow
 taobao.com pages.tmall.com xhr allow
 taobao.com pass.tmall.com script allow
+taobao.com t.alicdn.com script allow
 taobao.com tbip.alicdn.com script allow
 taobao.com tce.alicdn.com script allow
 tmall.com amos.alicdn.com script allow
@@ -423,8 +427,11 @@ stackexchange.com cdn.sstatic.net script allow
 stackoverflow.com cdn.sstatic.net script allow
 
 #Steam
+steamcommunity.com steamcommunity-a.akamaihd.net script allow
+steampowered.com cdn.edgecast.steamstatic.com media allow
 steampowered.com steamstore-a.akamaihd.net script allow
 steampowered.com store.edgecast.steamstatic.com script allow
+steampowered.com store.akamai.steamstatic.com script allow
 
 #Tampermonkey
 tampermonkey.net tampermonkey.global.ssl.fastly.net script allow
