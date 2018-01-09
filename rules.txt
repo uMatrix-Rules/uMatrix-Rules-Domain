@@ -25,6 +25,7 @@ referrer-spoof: firefox.com false
 * 1st-party frame allow
 
 #public CDN library
+* a.fsdn.com script allow
 * ajax.aspnetcdn.com script allow
 * ajax.cloudflare.com script allow
 * ajax.googleapis.com script allow
@@ -266,6 +267,9 @@ jd.com 3.cn script allow
 jd.com misc.360buyimg.com script allow
 jd.com static.360buyimg.com script allow
 
+#jianshu
+jianshu.com cdn2.jianshu.io script allow
+
 #Kiva
 kiva.org client.perimeterx.net script allow
 kiva.org www-kiva-org.global.ssl.fastly.net script allow
@@ -417,9 +421,6 @@ sony.com.hk sony.eu script allow
 sohu.com m1.auto.itc.cn script allow
 sohu.com statics.itc.cn script allow
 
-#SourceForge
-sourceforge.net a.fsdn.com script allow
-
 #StackExchange
 stackexchange.com cdn.sstatic.net script allow
 
@@ -484,6 +485,9 @@ twitter.com www.pscp.tv script allow
 #vcb-s
 vcb-s.com cache.cswsadlab.com script allow
 
+#virustotal
+virustotal.com virustotalcloud.appspot.com script allow
+
 #Walmart
 walmart.com a14.wal.co script allow
 walmart.com b.wal.co script allow
@@ -522,6 +526,9 @@ wikiwand.com db0nus869y26v.cloudfront.net xhr allow
 wikiwand.com wikipedia.org script allow
 wikiwand.com s3.amazonaws.com media allow
 wikiwand.com s3.amazonaws.com xhr allow
+
+#XDA
+xda-developers.com xda-cdn.com script allow
 
 #Yahoo
 yahoo.com jparack03.vpg.cdn.yimg.com xhr allow
