@@ -12,11 +12,7 @@ matrix-off: f531103c-928b-4542-a8e2-cd151bbba97e.moz-extension-scheme true
 matrix-off: localhost true
 matrix-off: opera-scheme true
 referrer-spoof: * true
-referrer-spoof: 163.com false
 referrer-spoof: behind-the-scene false
-referrer-spoof: bilibili.com false
-referrer-spoof: dropbox.com false
-referrer-spoof: firefox.com false
 * * * block
 * * css allow
 * * frame block
@@ -40,6 +36,7 @@ referrer-spoof: firefox.com false
 * unpkg.com script allow
 
 #163
+referrer-spoof: 163.com false
 163.com api.money.126.net script allow
 163.com data.live.126.net script allow
 163.com g.cn.miaozhen.com script allow
@@ -138,6 +135,8 @@ bbc.com static.bbci.co.uk script allow
 bbc.com www.bbc.co.uk script allow
 
 #Bilibili
+https-strict: bilibili.com false
+referrer-spoof: bilibili.com false
 bilibili.com 00cdn.com xhr allow
 bilibili.com acgvideo.com media allow
 bilibili.com acgvideo.com xhr allow
@@ -180,9 +179,11 @@ douyu.com shark.douyucdn.cn script allow
 douyu.com webconf.douyucdn.cn script allow
 
 #Dropbox
+referrer-spoof: dropbox.com false
 dropbox.com 127.0.0.1 xhr allow
 dropbox.com dropboxstatic.com script allow
 dropbox.com cfl.dropboxstatic.com xhr allow
+dropbox.com rebrand.dropboxstatic.com media allow
 
 #eBay
 ebay.com ebayrtm.com script allow
@@ -218,6 +219,10 @@ google.com www.gstatic.com xhr allow
 
 #GoDaddy
 godaddy.com img1.wsimg.com script allow
+
+#hackernoon
+hackernoon.com cdn-static-1.medium.com script allow
+hackernoon.com medium.com xhr allow
 
 #HBR
 hbr.org cdns.gigya.com script allow
@@ -266,6 +271,13 @@ instagram.com www.tumblr.com script allow
 jd.com 3.cn script allow
 jd.com misc.360buyimg.com script allow
 jd.com static.360buyimg.com script allow
+
+#JSFiddle
+jsfiddle.net fiddle.jshell.com frame allow
+jsfiddle.net fiddle.jshell.com script allow
+jsfiddle.net hub.togetherjs.com xhr allow
+jsfiddle.net togetherjs.com media allow
+jsfiddle.net togetherjs.com script allow
 
 #jianshu
 jianshu.com cdn2.jianshu.io script allow
@@ -339,6 +351,7 @@ sharepoint.com word-view.officeapps.live.com frame allow
 mega.nz mega.co.nz xhr allow
 
 #Mozilla
+referrer-spoof: firefox.com false
 firefox.com mozilla.net script allow
 mozilla.org cloudfront.net media allow
 mozilla.org interactive-examples.mdn.mozilla.net frame allow
@@ -436,6 +449,9 @@ steampowered.com store.akamai.steamstatic.com script allow
 
 #Tampermonkey
 tampermonkey.net tampermonkey.global.ssl.fastly.net script allow
+
+#Teamviewer
+teamviewer.com tv-static.net script allow
 
 #TheGuardian
 theguardian.com assets.guim.co.uk script allow
