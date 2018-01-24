@@ -160,6 +160,9 @@ booking.com r-ak.bstatic.com script allow
 #CSDN
 csdn.net csdnimg.cn script allow
 
+#CODING
+coding.net qbox.me script allow
+
 #DailyMotion
 dailymotion.com static1.dmcdn.net script allow
 
@@ -188,6 +191,9 @@ dropbox.com rebrand.dropboxstatic.com media allow
 #eBay
 ebay.com ebayrtm.com script allow
 ebay.com ebaystatic.com script allow
+
+#ESET
+eset.com esetstatic.com script allow
 
 #FoxNews
 foxnews.com global.fncstatic.com script allow
@@ -497,6 +503,9 @@ twitter.com video.twimg.com media allow
 twitter.com video.twimg.com xhr allow
 twitter.com www.pscp.tv frame allow
 twitter.com www.pscp.tv script allow
+
+#V2EX
+v2ex.com v2ex.assets.uxengine.net script allow
 
 #vcb-s
 vcb-s.com cache.cswsadlab.com script allow
