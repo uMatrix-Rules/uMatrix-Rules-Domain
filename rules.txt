@@ -108,6 +108,12 @@ amazon.com images-na.ssl-images-amazon.com script allow
 #appinn
 appinn.com cdn.doublemax.net script allow
 
+#aqicn
+aqicn.org waqi.info xhr allow
+
+#arstechnica
+arstechnica.com cdn.arstechnica.net script allow
+
 #Baidu
 baidu.com bkssl.bdimg.com script allow
 baidu.com gss0.bdstatic.com script allow
@@ -296,6 +302,11 @@ kiva.org www-kiva-org.global.ssl.fastly.net xhr allow
 #LinkedIn
 linkedin.com static.licdn.com script allow
 
+#lofter
+lofter.com l.bst.126.net frame allow
+lofter.com l.bst.126.net script allow
+lofter.com music.ph.126.net script allow
+
 #LOL-US
 leagueoflegends.com cloudfront.net media allow
 leagueoflegends.com ekg.riotgames.com xhr allow
@@ -440,6 +451,9 @@ sony.com.hk sony.eu script allow
 sohu.com m1.auto.itc.cn script allow
 sohu.com statics.itc.cn script allow
 
+#speedtest
+speedtest.net b.cdnst.net script allow
+
 #StackExchange
 stackexchange.com cdn.sstatic.net script allow
 
@@ -530,6 +544,8 @@ weibo.com js1.t.sinajs.cn script allow
 weibo.com js2.t.sinajs.cn script allow
 weibo.com jss.t.sinajs.cn script allow
 weibo.com login.sina.com.cn script allow
+weibo.com sinaimg.cn media allow
+weibo.com tjs.sjs.sinajs.cn script allow
 
 #Wikia
 wikia.com s3.amazonaws.com script allow
