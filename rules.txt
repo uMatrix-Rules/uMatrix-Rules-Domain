@@ -600,6 +600,8 @@ youku.com ynuf.alipay.com xhr block
 youtube.com google.com cookie allow
 youtube.com google.com script allow
 youtube.com googlevideo.com xhr allow
+youtube.com s.ytimg.com script allow
+youtube.com s.ytimg.com xhr allow
 
 #zhanqi.tv
 zhanqi.tv videojj.com dobest.com bfun.cn alivecdn.com frame allow
