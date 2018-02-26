@@ -190,7 +190,10 @@ douyu.com webconf.douyucdn.cn script allow
 #Dropbox
 referrer-spoof: dropbox.com false
 dropbox.com 127.0.0.1 xhr allow
+dropbox.com api.braintreegateway.com script allow
 dropbox.com dropboxstatic.com script allow
+dropbox.com cf.dropboxpayments.com frame allow
+dropbox.com cf.dropboxpayments.com script allow
 dropbox.com cfl.dropboxstatic.com xhr allow
 dropbox.com rebrand.dropboxstatic.com media allow
 
@@ -200,6 +203,9 @@ ebay.com ebaystatic.com script allow
 
 #ESET
 eset.com esetstatic.com script allow
+
+# Facebook
+facebook.com static.xx.fbcdn.net script allow
 
 #FoxNews
 foxnews.com global.fncstatic.com script allow
