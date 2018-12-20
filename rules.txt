@@ -282,11 +282,11 @@ foxnews.com global.fncstatic.com script allow
 gamer.com.tw i2.bahamut.com.tw script allow
 
 #GitHub
-github.com s3.amazonaws.com xhr allow
 github.com pages-themes.github.io frame allow
 github.com pages-themes.github.io script allow
 github.com githubapp.com cookie allow
 github.com githubusercontent.com xhr allow
+github.com github.githubassets.com script allow
 github.com render.githubusercontent.com frame allow
 github.com render.githubusercontent.com script allow
 github.com s3.amazonaws.com xhr allow
@@ -548,6 +548,7 @@ paypal.com paypalobjects.com xhr allow
 #Pixiv
 pixiv.net d.pixiv.org frame allow
 pixiv.net pximg.net xhr allow
+pixiv.net s.pximg.net script allow
 
 #QQ
 qq.com captcha.gtimg.com frame allow
